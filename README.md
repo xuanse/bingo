@@ -1,0 +1,2 @@
+# bingo
+just anthhor repository
